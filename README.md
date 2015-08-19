@@ -1,2 +1,2 @@
-# reactjs-autocomplete
-Autocomplete control build with Reactjs
+# Reactjs Autocomplete
+Autocomplete control built with Reactjs
