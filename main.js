@@ -10,4 +10,4 @@ var items = [
 {"desc": "Marcelo Barovero", "id": 6}
 ];
 
-React.render(<Autocomplete data={items} />, document.getElementById("container"));
+React.render(<Autocomplete />, document.getElementById("container"));
